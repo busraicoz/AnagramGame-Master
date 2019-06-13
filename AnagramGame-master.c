@@ -34,8 +34,6 @@ int doubleHashing(int key, int index)
 	
 }
 
-
-
 struct HashTable
 {
 	char value[5];
